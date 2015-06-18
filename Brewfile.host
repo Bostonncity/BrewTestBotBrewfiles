@@ -1,0 +1,6 @@
+tap 'caskroom/cask'
+tap 'homebrew/bundle'
+brew 'caskroom/cask/brew-cask'
+cask 'xquartz'
+cask 'java'
+cask 'vmware_fusion'

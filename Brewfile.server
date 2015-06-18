@@ -1,0 +1,7 @@
+tap 'caskroom/cask'
+tap 'homebrew/bundle'
+tap 'homebrew/versions'
+brew 'caskroom/cask/brew-cask'
+brew 'homebrew/versions/jenkins-lts'
+cask 'xquartz'
+cask 'java'
